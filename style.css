@@ -1,0 +1,23 @@
+html {
+  #container{
+    width:100%;
+    margin:auto;
+    text-align: center;
+  }
+  #header{
+    color: black;
+    height:150px;
+  }
+  #main{
+    height:400px;
+    display: flex;
+  }
+  #left{
+    flex: 1;
+  }
+  body,p,h1{
+    padding:0;
+    margin:0;
+  }
+}
+
